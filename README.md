@@ -14,7 +14,7 @@
 
 ## Example
 
-``` bash
+``` text
 Please Select Menu.
 [0] Insert Card.
 [1] See Balance.
